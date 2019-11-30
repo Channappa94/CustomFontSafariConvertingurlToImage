@@ -1,0 +1,6 @@
+framework module Pods_CustomFontAndColors_CustomFontAndColorsUITests {
+  umbrella header "Pods-CustomFontAndColors-CustomFontAndColorsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
